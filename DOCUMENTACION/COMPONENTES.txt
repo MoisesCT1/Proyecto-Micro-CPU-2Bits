@@ -1,0 +1,11 @@
+1x Placa de Desarrollo RP2040 Zero (u otra placa basada en RP2040 con
+soporte para MicroPython).
+• 1x Protoboard.
+• 7x Botones Pulsadores (4 para los dígitos 0-3 y 3 para las operaciones +, -, =).
+• 6x LEDs Monocromáticos (para funciones Fetch, Decode, Execute, Write-Back.
+Y estados Zero, Negative).
+• 7x Resistencias de 220Ω a 330Ω
+• 1x Display de 7 Segmentos (de Cátodo Común).
+• 1x Cable para protoboard o UTP
+• 5x Jumpers hembra-macho
+• 1x Cable USB-C (para alimentación y programación)
